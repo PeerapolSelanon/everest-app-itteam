@@ -1,0 +1,5 @@
+.overlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(17, 17, 17, 0.6); /* สีดำแบบมีความโปร่งใส */
+  }
